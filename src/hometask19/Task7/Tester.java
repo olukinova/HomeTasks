@@ -1,6 +1,4 @@
-package Task7;
-
-import hometask14.A;
+package hometask19.Task7;
 
 import java.util.ArrayList;
 import java.util.Iterator;

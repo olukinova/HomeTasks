@@ -1,4 +1,4 @@
-package Task7;
+package hometask19.Task7;
 
 abstract class Card {
 

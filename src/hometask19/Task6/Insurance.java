@@ -1,4 +1,4 @@
-package Task6;
+package hometask19.Task6;
 
 abstract public class Insurance {
 
