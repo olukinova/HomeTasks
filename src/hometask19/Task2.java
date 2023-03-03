@@ -1,6 +1,7 @@
 package hometask19;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Task2 {
 
@@ -27,5 +28,13 @@ public class Task2 {
 
 
         cars.forEach(car -> System.out.println(car));
+
+        System.out.println("*****************");
+
+        Iterator<String> iterator = cars.iterator();
+        while(iterator.hasNext()) {
+            String car = iterator.next();
+            System.out.println(car);
+        }
     }
 }
